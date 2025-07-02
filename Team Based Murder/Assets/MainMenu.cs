@@ -21,6 +21,7 @@ public class MainMenu : MonoBehaviour
         Debug.Log("Loading save game panel...");
         // You would likely activate a separate GameObject that holds your load game UI
         // loadGamePanel.SetActive(true);
+        SceneManager.LoadScene("Area1");
     }
 
     // Call this from your "Options" button's OnClick()
