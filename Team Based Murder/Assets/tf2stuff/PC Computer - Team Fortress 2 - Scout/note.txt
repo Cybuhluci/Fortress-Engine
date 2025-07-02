@@ -1,0 +1,8 @@
+--- Completely re-ripped by Slipsy! ---
+
+
+- Added missing invuln textures, corrected wrong eye textures and added alternate eye textures, in-game and HWM face textures, ice and gold statue effects.
+
+- Added both in-game and HWM models, each with blendshapes. In-game model has simple speech visemes and expressions, while the HWM model has more in-depth individual facial flexes.
+
+- Gibs! Boom!
